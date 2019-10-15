@@ -1,0 +1,7 @@
+D:\codigo\Compras\CapaDiseño\bin\Debug\CapaDiseño.dll
+D:\codigo\Compras\CapaDiseño\bin\Debug\CapaDiseño.pdb
+D:\codigo\Compras\CapaDiseño\obj\Debug\CapaDiseño.csprojAssemblyReference.cache
+D:\codigo\Compras\CapaDiseño\obj\Debug\CapaDiseño.Compras.resources
+D:\codigo\Compras\CapaDiseño\obj\Debug\CapaDiseño.csproj.GenerateResource.cache
+D:\codigo\Compras\CapaDiseño\obj\Debug\CapaDiseño.dll
+D:\codigo\Compras\CapaDiseño\obj\Debug\CapaDiseño.pdb
